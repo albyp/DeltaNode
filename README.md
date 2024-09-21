@@ -1,14 +1,16 @@
 # DeltaNode
 
-## Pipeline
+## Development
 
 ### Short-term todo
-
-- Front-end UI for importing data to the database
+- [ ] Importing data
+- [ ] Front-end UI
 
 ### Long-term todo
 
-- Graphs (3D, 2D, XYZ)
+- [ ] Graphs (3D, 2D, XYZ)
+- [ ] Plot exports
+- [ ] User accounts (read-only, write/import only, admin)
 
 ## Requirements
 
